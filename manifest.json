@@ -3,6 +3,6 @@
     "short_name": "TWA",
     "description": "Trusted Web Activities",
     "start_url": "/",
-    "display": "standalone",
+    "display": "fullscreen",
     "icons": []
 }
