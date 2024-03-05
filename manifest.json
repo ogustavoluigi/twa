@@ -2,7 +2,7 @@
     "name": "TWA",
     "short_name": "TWA",
     "description": "Trusted Web Activities",
-    "start_url": "/",
+    "start_url": "/twa/index.html",
     "display": "fullscreen",
     "icons": []
 }
